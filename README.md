@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=300&section=header&text=HoJin%20Jeong&fontSize=90)
 
-<h3 align="left">A passionate frontend developer from Korea</h3>
+<h2 align="left">A passionate iOS developer from Korea</h2>
 
 <h3 align="left">Languages:</h3>
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
@@ -11,6 +11,6 @@
 
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HJ39&show_icons=true&locale=en&bg_color=10,e96443,904e95&title_color=fff&text_color=fff" alt="hj" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HJ39&show_icons=true&locale=en&bg_color=10,c2e59c,64b3f4&title_color=fff&text_color=fff" alt="hj" /></p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&section=footer)
