@@ -7,7 +7,7 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Xcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/> <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/> 
 
 </p>
 
