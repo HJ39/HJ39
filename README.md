@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="left">Blogs:</h3>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=blue"/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=red"/> 
 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HJ39&show_icons=true&locale=en&bg_color=10,c2e59c,64b3f4&title_color=fff&text_color=fff" alt="hj" /></p>
