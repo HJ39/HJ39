@@ -24,6 +24,6 @@
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhj4467930">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HJ39&show_icons=true&locale=en&bg_color=10,c2e59c,64b3f4&title_color=fff&text_color=fff" alt="hj" /></p>
+![HJ39's GitHub stats](https://github-readme-stats.vercel.app/api?username=HJ39&show_icons=true&theme=dracula)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&section=footer)
