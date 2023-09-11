@@ -23,6 +23,6 @@
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhj4467930">
 
-![HJ39's GitHub stats](https://github-readme-stats.vercel.app/api?username=HJ39&show_icons=true&theme=dracula)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&section=footer)
