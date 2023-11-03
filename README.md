@@ -19,7 +19,7 @@
 <p align="left"> 
 <a href="https://www.notion.so/IOS-d0bf777508014f1b83a99c36cf45fc3a"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=blue"/></a> <a href="https://hj39-develop.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=red"/> </a>
 </p>
-<br>
+<br> 
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhj4467930">
 
