@@ -14,7 +14,7 @@
 <p align="left"> 
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>  
 </p>
-
+ 
 <h3 align="left">Blogs:</h3>
 <p align="left"> 
 <a href="https://www.notion.so/IOS-d0bf777508014f1b83a99c36cf45fc3a"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=blue"/></a> <a href="https://hj39-develop.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=red"/> </a>
